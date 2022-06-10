@@ -117,7 +117,6 @@ def copy2():
 def copy1():
     global newfilesdir
     filesdir= os.path.join(newfilesdir,"set1" + os.sep)
-    ba.screenmessage("hi copying files")
     files=os.listdir(filesdir)
     print("doing set1")
     for file in files:
