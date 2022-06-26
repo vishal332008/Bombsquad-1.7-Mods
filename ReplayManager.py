@@ -53,7 +53,7 @@ def set_default_configs() -> None:
     else:
         pass
 
-# ba_meta require api 6
+# ba_meta require api 7
 # ba_meta export plugin
 
 

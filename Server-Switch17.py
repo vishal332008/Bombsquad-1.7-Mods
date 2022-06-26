@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# ba_meta require api 6
+# ba_meta require api 7
 
 #By Mr.Smoothy 
 #discord @mr.smoothy#5824

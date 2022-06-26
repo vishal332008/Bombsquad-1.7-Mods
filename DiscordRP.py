@@ -1,4 +1,4 @@
-# ba_meta require api 6
+# ba_meta require api 7
 
 '''
 Bombsquad Discord Rich Presence  by Mr.Smoothy

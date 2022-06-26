@@ -1,7 +1,7 @@
 __author__ = 'Droopy'
 __version__ = 3.0
 
-# ba_meta require api 6
+# ba_meta require api 7
 import datetime
 import json
 import math

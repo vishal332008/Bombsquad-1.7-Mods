@@ -40,7 +40,7 @@ For more information, please refer to <http://unlicense.org/>
 # have to credit me, but I'd appreciate if you do it anyway! =)
 
 
-# ba_meta require api 6
+# ba_meta require api 7
 import _ba
 import ba
 
