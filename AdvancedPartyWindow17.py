@@ -180,10 +180,7 @@ if not isinstance(SystemEncode,str):
 
 
 import datetime
-try:
-    from ba._generated.enums import TimeType
-except:
-    from ba._enums import TimeType
+from ba._generated.enums import TimeType
 class chatloggThread():
     """Thread for sending out game pings."""
     def __init__(self):
