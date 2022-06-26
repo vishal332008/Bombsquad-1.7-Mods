@@ -1,5 +1,5 @@
 {
-  "DiscordRP":{
+  "DiscordRP17":{
     "author":"Mr Smoothy",
     "version":"1.7 and more"
   },
@@ -7,11 +7,11 @@
     "author":"Rikko",
     "version":"1.7 and more"
   },
-  "ReplayManager":{
+  "ReplayManager17":{
     "author":"Pranav",
     "version":"1.7 and more"
   },
-  "UltraPartyWindowReloadedLatest":{
+  "UltraPartyWindow17":{
     "author":"Droopy",
     "version":"1.7 and more"
   },
@@ -19,7 +19,7 @@
     "author":"Mr Smoothy",
     "version":"1.7 and more"
   },
-  "CharacterChooser":{
+  "CharacterChooser17":{
     "author":"Mr Smoothy",
     "version":"1.7 and more"
   },
@@ -27,24 +27,12 @@
     "author":"Mr Smoothy",
     "version":"1.7 and more"
   },
-  "Server-Switch17":{
+  "ServerSwitch17":{
     "author":"Mr Smoothy",
     "version":"1.7 and more"
   },
-  "CharacterChooser":{
-    "author":"Me Smoothy",
-    "version":"1.7 and more"
-  },
-  "EasyConnect17":{
-    "author":"Me Smoothy",
-    "version":"1.7 and more"
-  },
-  "Server-Switch17":{
-    "author":"Me Smoothy",
-    "version":"1.7 and more"
-  },
-  "pro_unlocker_latest":{
+  "ProUnlocker17":{
     "author":"Unknown",
     "version":"1.7 and more"
-  },
+  }
 }
