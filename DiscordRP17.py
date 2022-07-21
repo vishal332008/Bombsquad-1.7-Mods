@@ -263,7 +263,7 @@ class UnixDiscordIpcClient(DiscordIpcClient):
 
 # ba_meta export plugin
 class HeySmoothy(ba.Plugin):
-    def on_app_launch(self):
+    def on_app_running(self):
 
         
         
