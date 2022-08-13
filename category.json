@@ -1,0 +1,26 @@
+{
+  "name": "1.7 Mods",
+  "description": "nothing here",
+  "plugins_base_url": "https://github.com/vishal332008/Bombsquad-1.7-Mods/{content_type}/main",
+  "plugins": {
+    "AdvancedPartyWindow17": {
+      "description": "idk.",
+      "external_url": "",
+      "authors": [
+        {
+          "name": "Many Peeps",
+          "email": "abc123@gmail.com"
+        }
+      ],
+      "versions": {
+         "1.0.0": {
+           "api_version": 7,
+           "commit_sha": "b504f88",
+           "dependencies": [],
+           "released_on": "10-08-2022",
+           "md5sum": "b504f88ea828e6588d27ca303c3ad2b072cef306"
+        }
+      }
+    }
+  }
+}
